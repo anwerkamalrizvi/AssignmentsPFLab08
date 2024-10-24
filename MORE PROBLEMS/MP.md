@@ -11,7 +11,7 @@ that is the smallest in its row and the largest in its column.
 column).
 7. Write a C program to multiply two matrices of size 3x3 and display the result matrix.
 8. Write a C program to generate a diamond shape pattern using nested loops. The program
-should take the number of rows for the upper half of the diamond as input from the user.
+should take the number of rows for the upper half of the diamond as input from the user.<br>
          *
         * *
        * * *
